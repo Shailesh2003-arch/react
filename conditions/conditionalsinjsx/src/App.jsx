@@ -32,7 +32,7 @@ function App() {
 
   {/* Using ternary operator */}
 
-let age = 14;
+let age = 19;
     return (
       <>
       <button >{age>=18 ? "Available": "Not Available"}</button>
